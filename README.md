@@ -8,7 +8,9 @@ Astronomer, Docker, Airflow
 
 
 Step 1: Create an astronomer project
+
 Step 2: Run a sample dag "test_logging_dag.py"
+
 Step 3: Verify Airflow UI (screenshots available)
 
 Step 4: Mount airflow logs from docker container to ./logs folder
