@@ -1,0 +1,7 @@
+project:
+    name: de-sb-airflow-log
+deployments:
+  local:
+    airflow:
+      volumes:
+        - ./logs:/usr/local/airflow/logs
