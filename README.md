@@ -1,9 +1,8 @@
-# Spark Optimization
-Airflow Log Analyzer
+# Airflow Log Analyzer
+This project creates a python script (./inserts/scripts/log-analyzer.py) to read log files (./logs) for dag_id=test_logging_dag.py
 
 ## Summary
-Environment: VS Code
-Pyspark
+Environment: Python 3.12
 Astronomer, Docker, Airflow
 
 
